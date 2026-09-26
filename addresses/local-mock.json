@@ -1,0 +1,26 @@
+{
+  "chainId": 31337,
+  "gmxAdapter": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+  "markets": {
+    "BTC": {
+      "lltvBps": 6500,
+      "marketId": "0xe98e2830be1a7e4156d656a7505e65d08c67660dc618072422e9c78053c261e9",
+      "maxLtvBps": 4500,
+      "oracle": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+      "rToken": "0xd8058efe0198ae9dD7D563e1b4938Dcbc86A1F81",
+      "swapPool": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853"
+    },
+    "ETH": {
+      "lltvBps": 7000,
+      "marketId": "0xaaaebeba3810b1e6b70781f14b2d72c1cb89c0b2b320c43bb67ff79f562f5ff4",
+      "maxLtvBps": 5000,
+      "oracle": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318",
+      "rToken": "0x6D544390Eb535d61e196c87d6B9c80dCD8628Acd",
+      "swapPool": "0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0"
+    }
+  },
+  "positionVaultImpl": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+  "profile": "local-mock",
+  "usdc": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "vaultFactory": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+}
